@@ -1,0 +1,10 @@
+h {
+    color: aqua;
+    text-align: end;
+}
+
+p {
+    color: brown;
+    text-align: right;
+    opacity: 0.45;
+}
